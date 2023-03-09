@@ -13,7 +13,7 @@ public class Exerc9 {
 				System.out.println("O valor de X pode ser "+ x);
 			}
 		}*/
-		double a,b,c,delta,result1,result2;
+		double delta,result1,result2;
 		
 		delta = Math.pow(-(-5), 2) - 4 * 1 * 6;
 		
